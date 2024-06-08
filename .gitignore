@@ -24,7 +24,6 @@ $RECYCLE.BIN/
 *.git
 *.vs
 *.pdf
-*.docx
 
 # Windows shortcuts
 *.lnk
